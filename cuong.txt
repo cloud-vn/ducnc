@@ -1,0 +1,3 @@
+username= cuong
+password= khongbiet
+link = 1.1.1.9
